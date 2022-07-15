@@ -2,7 +2,7 @@
 In this challenge I have analyzed demographic data using Pandas
 
 What questions have I answered?
-- How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels.
+- How many people of each race are represented in this dataset?
 - What is the average age of men?
 - What is the percentage of people who have a Bachelor's degree?
 - What percentage of people with advanced education (Bachelors, Masters, or Doctorate) make more than 50K?
